@@ -2,7 +2,7 @@
 
 **R. V. Adams, K. A. Lurie, W. C. Sanguinet**
 
-Talk given at the RTG conference, University of Utah, Salt Lake City, 17 October 2026.
+Talk given at the NSF RTG Conference Materials and Optimization, University of Utah, Salt Lake City, 17 October 2026.
 Dedicated to Andrej Cherkaev and Graeme Milton.
 
 **Abstract.** We celebrate forty years of progress on this foundational problem and motivate the inevitable emergence
